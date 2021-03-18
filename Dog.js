@@ -1,4 +1,4 @@
 function Dog() {
 
 }
-Dog.prototype.die = true;
+var gaugau = new Dog();
